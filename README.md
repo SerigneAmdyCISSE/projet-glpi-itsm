@@ -11,7 +11,7 @@
 
 L'intégralité de mon travail technique et analytique est documentée dans ce dépôt. Vous y trouverez la méthodologie de déploiement (Stack LAMP), les configurations système, ainsi que la mise en pratique des processus ITIL (Incidents, Problèmes, Changements) avec captures d'écran à l'appui.
 
-👉 **[Consulter le compte rendu complet du projet en cliquant ici](./NOM_DE_VOTRE_FICHIER.pdf)**
+👉 **[Consulter le compte rendu complet du projet en cliquant ici](./Compte%20rendu-glpi.pdf)**
 
 ## 💡 Synthèse des Compétences acquises
 * **Administration système :** Déploiement, configuration web et sécurisation de base de données (Linux, Apache, MariaDB).
